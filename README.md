@@ -142,7 +142,20 @@ sns.boxplot(x="height",data=df5)
 
 ![ass1 1](https://user-images.githubusercontent.com/118671457/227019767-26987804-f4a3-49c1-a1df-b06f094a431e.png)
 
+![ass2](https://user-images.githubusercontent.com/118671457/227019893-de9e50f5-e983-4efd-b26a-e0207ab72b56.png)
+![ass3](https://user-images.githubusercontent.com/118671457/227019934-bd470d66-20ad-410a-b188-72c104d632d4.png)
 
-## Result:
+![ass4](https://user-images.githubusercontent.com/118671457/227019983-e7d3ad72-99a6-4f71-b285-0eda8bc4f0aa.png)
+![ass5](https://user-images.githubusercontent.com/118671457/227020022-ed40ea80-4725-4d57-9cc9-654767db6c52.png)
+![ass6](https://user-images.githubusercontent.com/118671457/227020035-bd461bb4-fa87-4bba-94f9-3eeeef42e4ac.png)
+![ass7](https://user-images.githubusercontent.com/118671457/227020057-e14e97f2-1fe9-4f58-8bfd-63f09ce690b4.png)
+
+![ass8](https://user-images.githubusercontent.com/118671457/227020072-3bcce846-9dca-4d14-acfe-93103dcfc7d3.png)
+![ass9](https://user-images.githubusercontent.com/118671457/227020182-b594b6c2-b641-4a89-9a0d-3c5d3555ddc1.png)
+
+![ass10](https://user-images.githubusercontent.com/118671457/227020215-48b6bcec-1c95-47f3-8f18-69e1527979f5.png)
+![ass11](https://user-images.githubusercontent.com/118671457/227020250-1b016d2d-13d9-4ad7-a6ca-3da7665732b8.png)
+
+#Result:
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
 
