@@ -138,6 +138,7 @@ df5.shape
 
 sns.boxplot(x="height",data=df5)
 ## Output:
+
 C:\Users\kowsa\Pictures\Screenshots\ass1.png
 C:\Users\kowsa\Pictures\Screenshots\ass2.png
 C:\Users\kowsa\Pictures\Screenshots\ass3.png
