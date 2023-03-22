@@ -140,7 +140,8 @@ df5.shape
 sns.boxplot(x="height",data=df5)
 ## Output:
 
-"C:\Users\kowsa\Pictures\Screenshots\ass1.1.png"
+![ass1 1](https://user-images.githubusercontent.com/118671457/227019767-26987804-f4a3-49c1-a1df-b06f094a431e.png)
+
 
 ## Result:
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
