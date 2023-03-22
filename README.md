@@ -122,6 +122,7 @@ df4.shape
 sns.boxplot(x="weight",data=df4)
 
 ## (4)(ii) For the data set height_weight.csv detect height outliers using IQR method.
+
 sns.boxplot(x="height",data=df3)
 q1 = df3['height'].quantile(0.25)
 q3 = df3['height'].quantile(0.75)
@@ -140,16 +141,6 @@ sns.boxplot(x="height",data=df5)
 ## Output:
 
 C:\Users\kowsa\Pictures\Screenshots\ass1.png
-C:\Users\kowsa\Pictures\Screenshots\ass2.png
-C:\Users\kowsa\Pictures\Screenshots\ass3.png
-C:\Users\kowsa\Pictures\Screenshots\ass4.png
-C:\Users\kowsa\Pictures\Screenshots\ass5.png
-C:\Users\kowsa\Pictures\Screenshots\ass6.png
-C:\Users\kowsa\Pictures\Screenshots\ass7.png
-C:\Users\kowsa\Pictures\Screenshots\ass8.png
-C:\Users\kowsa\Pictures\Screenshots\ass9.png
-C:\Users\kowsa\Pictures\Screenshots\ass10.png
-C:\Users\kowsa\Pictures\Screenshots\ass11.png
 
 ## Result:
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
